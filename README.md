@@ -38,4 +38,4 @@ The analysis was performed using **Python (Pandas, Matplotlib, Seaborn)**, with 
 | `Kickstarter+Projects python project.ipynb` | The main Jupyter notebook containing all the code for data cleaning, trend analysis, visualization, and the final investor recommendation. |
 | `kickstarter_projects.csv` | The primary dataset containing project details, goals, pledged amounts, and success states. |
 
-**Data Source:** Provided Dataset (Data spans from 2009-04-21 to 2018-01-02)
+**Data Source:** (https://app.mavenanalytics.io/datasets)
