@@ -24,11 +24,10 @@ The analysis was performed using **Python (Pandas, Matplotlib, Seaborn)**, with 
 
 <img width="634" height="455" alt="output4" src="https://github.com/user-attachments/assets/43855f03-fa20-4cf9-8e97-61c0653fe973" />
 
-
 ### High-Reward Outliers Require Focus
-* **Finding:** The project with the highest Goal Completion Percentage was **Exploding Kittens**, which exceeded its goal by over **$87,000\%$**. This demonstrates massive, exponential return potential often found in **Games** and **Design** projects with strong viral appeal.
+* **Finding:** The most successful project with a goal over $1,000 USD was **Exploding Kittens**, which exceeded its goal by over **$87,000\%$**. This demonstrates immense viral potential often found in **Games** and **Design** projects.
 * **Recommendation:** Reserve a small portion of capital for low-goal projects (over \$1,000) that show **extreme early traction** to capture potentially massive, outlier returns.
-  
+
 <img width="967" height="455" alt="output5" src="https://github.com/user-attachments/assets/e3004e23-5635-40f5-a8e0-0e022047e59f" />
 
 ### Market Saturation Must Be Managed
