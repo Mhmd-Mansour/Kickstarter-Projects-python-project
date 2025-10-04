@@ -32,10 +32,13 @@ The analysis was performed using **Python (Pandas, Matplotlib, Seaborn)**, with 
 <img width="967" height="455" alt="output5" src="https://github.com/user-attachments/assets/e3004e23-5635-40f5-a8e0-0e022047e59f" />
 
 ### Market Saturation Must Be Managed
-* **Finding:** The overall platform success rate peaked around 2011 and has **declined significantly** since, indicating a more competitive environment due to increased project volume.
-* **Recommendation:** Due diligence is more critical now than ever before. Investors should no longer rely on average platform success rates but must focus on **niche expertise** and **high-probability categories** to mitigate increased market risk.
+* **Finding:** The platform's overall success rate peaked around 2011 and has **declined significantly** since, indicating a more competitive environment due to increased project volume. **Despite this trend, the Dance category emerged as the most successful between 2009 and 2017.**
+* **Recommendation:** Due diligence is more critical now than ever before. Investors should no longer rely on average platform success rates but must focus on **niche expertise** and **high-probability categories** like Dance to mitigate increased market risk.
+
 
 <img width="576" height="456" alt="output6" src="https://github.com/user-attachments/assets/d3b9a98f-4c45-4a4d-b062-76eb91232c4f" />
+
+<img width="1238" height="316" alt="output7" src="https://github.com/user-attachments/assets/f53a865a-400c-44cd-991f-202faa8188bc" />
 
 
 ---
