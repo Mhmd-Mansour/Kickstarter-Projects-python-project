@@ -36,7 +36,8 @@ The analysis was performed using **Python (Pandas, Matplotlib, Seaborn)**, with 
 * **Recommendation:** Due diligence is more critical now than ever before. Investors should no longer rely on average platform success rates but must focus on **niche expertise** and **high-probability categories** like Dance to mitigate increased market risk.
 
 
-<img width="576" height="456" alt="output6" src="https://github.com/user-attachments/assets/d3b9a98f-4c45-4a4d-b062-76eb91232c4f" />
+<img width="1229" height="317" alt="output6 1" src="https://github.com/user-attachments/assets/e30f9546-634d-4e9c-86e0-46d5dc1432db" />
+
 
 <img width="1238" height="316" alt="output7" src="https://github.com/user-attachments/assets/f53a865a-400c-44cd-991f-202faa8188bc" />
 
