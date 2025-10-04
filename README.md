@@ -22,13 +22,21 @@ The analysis was performed using **Python (Pandas, Matplotlib, Seaborn)**, with 
 * **Finding:** Categories like **Dance**, **Theater**, and **Comics** consistently show success rates significantly above the platform average. Dance, for example, often maintains a success rate above $60\%$.
 * **Recommendation:** Prioritize the allocation of capital to categories that offer the highest **statistical probability of success** for reliable returns.
 
+<img width="634" height="455" alt="output4" src="https://github.com/user-attachments/assets/43855f03-fa20-4cf9-8e97-61c0653fe973" />
+
+
 ### High-Reward Outliers Require Focus
 * **Finding:** The project with the highest Goal Completion Percentage was **Exploding Kittens**, which exceeded its goal by over **$87,000\%$**. This demonstrates massive, exponential return potential often found in **Games** and **Design** projects with strong viral appeal.
 * **Recommendation:** Reserve a small portion of capital for low-goal projects (over \$1,000) that show **extreme early traction** to capture potentially massive, outlier returns.
+  
+<img width="967" height="455" alt="output5" src="https://github.com/user-attachments/assets/e3004e23-5635-40f5-a8e0-0e022047e59f" />
 
 ### Market Saturation Must Be Managed
 * **Finding:** The overall platform success rate peaked around 2011 and has **declined significantly** since, indicating a more competitive environment due to increased project volume.
 * **Recommendation:** Due diligence is more critical now than ever before. Investors should no longer rely on average platform success rates but must focus on **niche expertise** and **high-probability categories** to mitigate increased market risk.
+
+<img width="576" height="456" alt="output6" src="https://github.com/user-attachments/assets/d3b9a98f-4c45-4a4d-b062-76eb91232c4f" />
+
 
 ---
 
